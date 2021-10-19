@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+#include "hw10.h" 	
 
 void print_shoes(struct shoes *s){
     if(s == NULL){
